@@ -8,7 +8,7 @@ This is project is based on tutorial :
 - [Redux is Easy | Explanation Tutorial](https://www.youtube.com/watch?v=I0orEUD5I6A)
   - [React Redux Tutorial for Beginners](https://www.valentinog.com/blog/react-redux-tutorial-beginners/)
 
-### [Redux Counter]
+### [Redux in 100 Seconds]
 
 This is project is based on tutorial :
 - [Redux in 100 Seconds](https://www.youtube.com/watch?v=_shA5Xwe8_4)
@@ -18,7 +18,7 @@ This is project is based on tutorial :
 - [React JS](https://reactjs.org/)
   - [React Redux](https://react-redux.js.org/)
 - [Redux](https://redux.js.org/)
-- [Redux Toolkit](https://redux-toolkit.js.org/)
+  - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Vite](https://vitejs.dev/)
 
 ## ⭐️ Support & Contribution
