@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="322867a6-a196-4860-81af-90c0e85931c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/src/pizzaSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/src/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/redux-in-100-seconds/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674127989877</updated>
       <workItem from="1674127991023" duration="1119000" />
-      <workItem from="1674134435666" duration="5181000" />
+      <workItem from="1674134435666" duration="5365000" />
     </task>
     <servers />
   </component>

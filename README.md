@@ -1,16 +1,16 @@
 # Hands on react redux
 
+Hands on react redux exercises 
+
 ## 💼 Projects
 
 ### [Redux Counter](projects/redux-is-easy-explanation-tutorial)
 
-This is project is based on tutorial :
 - [Redux is Easy | Explanation Tutorial](https://www.youtube.com/watch?v=I0orEUD5I6A)
   - [React Redux Tutorial for Beginners](https://www.valentinog.com/blog/react-redux-tutorial-beginners/)
 
-### [Redux in 100 Seconds]
+### [Redux in 100 Seconds](projects/redux-in-100-seconds)
 
-This is project is based on tutorial :
 - [Redux in 100 Seconds](https://www.youtube.com/watch?v=_shA5Xwe8_4)
 
 ## ⚒️ Library
