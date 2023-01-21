@@ -19,7 +19,7 @@ Hands on react redux exercises
 
 ### [Redux Saga with Redux Toolkit](project/redux-saga-with-redux-toolkit)
 
-- [Redux Toolkit with Redux Saga](https://www.youtube.com/watch?v=9MMSRn5NoFY)
+- [Redux Toolkit with Redux Saga | Toolkit and Saga made Simple](https://www.youtube.com/watch?v=9MMSRn5NoFY)
 
 ## ⚒️ Library
 
