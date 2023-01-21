@@ -13,11 +13,16 @@ Hands on react redux exercises
 
 - [Redux in 100 Seconds](https://www.youtube.com/watch?v=_shA5Xwe8_4)
 
+### [Redux Saga with Simple API Call](projects/redux-saga-with-simple-api-call)
+
+- [Understanding Redux Saga with a simple API call Tutorial](https://www.youtube.com/watch?v=eA6rskkE9y8)
+
 ## ⚒️ Library
 
 - [React JS](https://reactjs.org/)
   - [React Redux](https://react-redux.js.org/)
 - [Redux](https://redux.js.org/)
+  - [Redux Saga](https://redux-saga.js.org/)
   - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Vite](https://vitejs.dev/)
 
