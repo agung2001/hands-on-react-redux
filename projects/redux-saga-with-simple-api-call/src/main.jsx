@@ -5,11 +5,15 @@ import './index.css'
 
 /** Setup Redux */
 import {Provider} from 'react-redux'
-import {combineReducers, createStore} from "redux";
+import {combineReducers, createStore, applyMiddleware} from "redux";
+import createSagaMiddleware from 'redux-saga';
 import myFirstReducer from "./reducer";
+import mySaga from "./sagas";
 
+const sagaMiddleware = createSagaMiddleware();
 const rootReducer = combineReducers({myFirstReducer});
-const store = createStore(rootReducer);
+const store = createStore(rootReducer, applyMiddleware(sagaMiddleware));
+sagaMiddleware.run(mySaga);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
