@@ -9,7 +9,6 @@ function usersFetch(){
 function* workGetUsersFetch(){
     const users = yield call(usersFetch)
     yield put({type: GET_USER_SUCCESS, users})
-    // yield put({type: GET_USER_SUCCESS, payload: users})
 }
 
 function* mySaga(){
