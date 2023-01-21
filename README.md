@@ -17,7 +17,7 @@ Hands on react redux exercises
 
 - [Understanding Redux Saga with a simple API call Tutorial](https://www.youtube.com/watch?v=eA6rskkE9y8)
 
-## [Redux Saga with Redux Toolkit](project/redux-saga-with-redux-toolkit)
+### [Redux Saga with Redux Toolkit](project/redux-saga-with-redux-toolkit)
 
 - [Redux Toolkit with Redux Saga](https://www.youtube.com/watch?v=9MMSRn5NoFY)
 
